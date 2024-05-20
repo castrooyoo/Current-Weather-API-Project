@@ -1,4 +1,4 @@
-# Building Data Pipeline Project from Current-Weather-API
+# Building Data Pipeline Project from Open Weather Map API
 
 ## Description
 - Following the current weather patterns, I took the initiative to create a data pipeline to give insights in terms of current weather conditions daily. As a learning curve, I explored several Platforms to better practice and experience their capabilities as listed in the [tools section](##Tools).
